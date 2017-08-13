@@ -1,3 +1,5 @@
+.idea/*
+
 # Extended from https://github.com/github/gitignore/blob/master/Python.gitignore
 *.py[cod]
 *$py.class
